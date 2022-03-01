@@ -69,30 +69,27 @@ Representación gráfica de cómo es la cadena de misiones de forma esquemática
 
 ![Si](https://cdn.discordapp.com/attachments/865887682718466049/948274697924145172/Esquema.jpg)
 
+# Consejos para mejorar las misiones:
+
+Son unos consejos que puede que ya hayas tenido en cuenta pero si no espero que os sirvan.
+
+- Que las misiones secundarias tengan algún efecto en las misiones principales. Esto se puede ver bien en el juego de “The witcher 3”.
+- No hacer perder el tiempo al jugador haciendo que de muchas vueltas.
+- Dejar claras las cosas al jugador para que no se pierda
+
+
+Links a las webs que he cogido de referencia
+
+[here](https://www.alaluzdeunabombilla.com/2020/07/07/el-flujo-de-diseno-en-las-misiones/)
+
+[here](https://www.ehowenespanol.com/ideas-para-misiones-de-juegos-de-rol_13127111/)
+
+[here](https://www.hobbyconsolas.com/reportajes/misiones-secundarias-originales-diferentes-videojuegos-920531)
+
+[here](https://www.3djuegos.com/juegos/articulos/2374/0/estas-son-las-claves-para-crear-buenas-misiones-secundarias-en-un-juego-de-mundo-abierto/)
 
 
 
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/T4skar/quests_script/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
