@@ -50,6 +50,24 @@ Para ver si el concepto de la misión funciona hay que plantearse estas pregunta
 - ¿Qué la hace diferente al resto de misiones?
 - ¿Cuál es el propósito de la misión?
 
+## El gancho:
+
+Las misiones normalmente pertenecen a una cadena y hay que definirlas.
+
+- ¿Cuántas misiones hay relacionadas?
+- ¿Dónde está situada la misión?(Parte del mapa donde está situada)
+- ¿Quién ,o qué te da la misión?
+- ¿Que necesitas para completar la misión?(Ítems o mecánicas)
+
+Con estas preguntas resueltas podemos hacernos una idea de cómo serán las misiones. Y empezar a plantear la cadena de misiones de la misma forma que se han planteado las misiones.
+
+## Gráfico de misiones:
+
+Representación gráfica de cómo es la cadena de misiones de forma esquemática y que se vea fácilmente. Principalmente sirve para organizar las misiones.
+
+![Si](https://cdn.discordapp.com/attachments/865887682718466049/948274697680846948/Contenido.jpg)
+
+![Si](https://cdn.discordapp.com/attachments/865887682718466049/948274697924145172/Esquema.jpg)
 
 
 
