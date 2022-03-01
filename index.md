@@ -1,27 +1,24 @@
 
 Este documento sirve para aprender qué son las misiones y/o quests en videojuegos y la forma de implementarlas.
 
-### Markdown
+# ¿Qué es una quest y/o misión?
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Es una tarea que el jugador o grupo de jugadores deben llevar a cabo para recibir una recompensa y/o continuar la trama del juego.
 
-```markdown
-Syntax highlighted code block
+# ¿Qué tipos de misiones hay?
 
-# Header 1
-## Header 2
-### Header 3
+Hay muchos tipos de misiones pero veremos dos tipos diferentes de categorizarlas:
 
-- Bulleted
-- List
+## Según la importancia:
 
-1. Numbered
-2. List
+### Principales:
 
-**Bold** and _Italic_ and `Code` text
+ Las misiones principales son las que tienen objetivos similares con los de la historia principal y continuar con esta.
 
-[Link](url) and ![Image](src)
-```
+### Secundarias:
+
+Misiones con historias paralelas a las de la historia principal.
+
 
 For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
