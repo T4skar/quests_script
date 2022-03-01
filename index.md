@@ -46,6 +46,9 @@ Hay que tener en cuenta la historia, temática, ambientación y  narrativa gener
 Descripción de la idea clave de la forma más breve posible. 
 Para ver si el concepto de la misión funciona hay que plantearse estas preguntas:
 
+- ¿Por qué es divertido jugar esta misión?
+- ¿Qué la hace diferente al resto de misiones?
+- ¿Cuál es el propósito de la misión?
 
 
 
