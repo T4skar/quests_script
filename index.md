@@ -80,13 +80,13 @@ Son unos consejos que puede que ya hayas tenido en cuenta pero si no espero que 
 
 Links a las webs que he cogido de referencia
 
-[here](https://www.alaluzdeunabombilla.com/2020/07/07/el-flujo-de-diseno-en-las-misiones/)
+[El flujo de diseño en las misiones](https://www.alaluzdeunabombilla.com/2020/07/07/el-flujo-de-diseno-en-las-misiones/)
 
-[here](https://www.ehowenespanol.com/ideas-para-misiones-de-juegos-de-rol_13127111/)
+[Ideas para misiones de juegos de rol](https://www.ehowenespanol.com/ideas-para-misiones-de-juegos-de-rol_13127111/)
 
-[here](https://www.hobbyconsolas.com/reportajes/misiones-secundarias-originales-diferentes-videojuegos-920531)
+[Las misiones secundarias más originales y diferentes de los videojuegos](https://www.hobbyconsolas.com/reportajes/misiones-secundarias-originales-diferentes-videojuegos-920531)
 
-[here](https://www.3djuegos.com/juegos/articulos/2374/0/estas-son-las-claves-para-crear-buenas-misiones-secundarias-en-un-juego-de-mundo-abierto/)
+[Estas son las claves para crear buenas misiones secundarias en un juego de mundo abierto](https://www.3djuegos.com/juegos/articulos/2374/0/estas-son-las-claves-para-crear-buenas-misiones-secundarias-en-un-juego-de-mundo-abierto/)
 
 
 
