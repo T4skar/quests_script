@@ -93,6 +93,10 @@ Links a las webs que he cogido de referencia y en algunas podéis coger ideas:
 [Estas son las claves para crear buenas misiones secundarias en un juego de mundo abierto](https://www.3djuegos.com/juegos/articulos/2374/0/estas-son-las-claves-para-crear-buenas-misiones-secundarias-en-un-juego-de-mundo-abierto/)
 
 
+Link a la presentacion:
+
+[Presentacion](https://docs.google.com/presentation/d/1bnVVeM8rmKt06wrlHRxKfKk_L2INnWWOZOSgwr5A9IA/edit?usp=sharing)
+
 
 
 
