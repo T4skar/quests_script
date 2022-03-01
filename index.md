@@ -78,6 +78,10 @@ Son unos consejos que puede que ya hayas tenido en cuenta pero si no espero que 
 - Dejar claras las cosas al jugador para que no se pierda
 
 
+
+
+
+
 Links a las webs que he cogido de referencia y en algunas podéis coger ideas:
 
 [El flujo de diseño en las misiones](https://www.alaluzdeunabombilla.com/2020/07/07/el-flujo-de-diseno-en-las-misiones/)
